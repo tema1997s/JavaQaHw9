@@ -13,6 +13,7 @@ public class Radio {
         this.quantityOfStations = quantity;
         this.maxStation = quantityOfStations - 1;
     }
+
     public Radio() {
         this.maxStation = 9;
         this.quantityOfStations = 10;
